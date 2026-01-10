@@ -9,6 +9,7 @@
   align-items="center" 
   gap="30px" 
   padding="20px"
+  align="center"
   >
 
   
