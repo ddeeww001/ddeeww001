@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <head>
 <style>
   .head{
@@ -13,7 +15,7 @@
     transition: transform 0.3s ease;
   }
   .body:hover {
-  transform: scale(1.02);  /* ขยายขนาดขึ้นเล็กน้อย */
+  transform: scale(1.02); 
   box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
  }
 </style>
@@ -41,5 +43,6 @@
 </a>
 </div>
 </body>
+</html>
 
 
