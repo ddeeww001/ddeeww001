@@ -24,8 +24,16 @@
       box-shadow="0 15px 35px rgba(0, 0, 0, 0.3)"
       transition="all 0.3s ease"
       align="center"
-      src="https://wakatime.com/share/@83147bf6-6ae4-4808-b561-7c7b7e168e77/efb2c7be-94fb-4369-bc2c-be7b9a1c252e.svg">
-   
+      src="https://wakatime.com/share/@83147bf6-6ae4-4808-b561-7c7b7e168e77/78d42d5b-46db-4366-b10b-935008eb9f08.svg">
+  </figure>
+  <figure>
+    <img class="body"
+      width="400" height="400" alt="Description"
+      box-shadow="0 15px 35px rgba(0, 0, 0, 0.3)"
+      transition="all 0.3s ease"
+      align="center"
+      src="https://wakatime.com/share/@83147bf6-6ae4-4808-b561-7c7b7e168e77/ea9a4f8d-098e-4de1-be5f-421ed8426a04.svg">
+  </figure>
   
   <figure>
     <img class="body"
