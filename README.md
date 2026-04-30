@@ -2,7 +2,7 @@
 
   <h1>🙌 🤗 🤓 😺 🐣</h1>
   <h2>Work Time Analysis ⌚</h2>
-  <p><i>"The Simple Solutionist: Hybrid DevOps & Full-stack Developer"</i></p>
+  <p><i>"The Simple Solutionist: Front-end & UX/UI "</i></p>
 
   <br/>
 
