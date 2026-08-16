@@ -1,38 +1,52 @@
 <div align="center">
+  
+  <h1>👋 Hello, we are Sun</h1>
+  <h3>IT Manager & Full-Stack Developer</h3>
+  <p><em>Bridging the gap between human empathy, usable design, and scalable technology.</em></p>
 
-  <h1>🙌 🤗 🤓 😺 🐣</h1>
-  <h2>Work Time Analysis ⌚</h2>
-  <p><i>"The Simple Solutionist: Front-end & UX/UI "</i></p>
+</div>
 
-  <br/>
+---
 
-  <table>
-    <tr>
-      <td align="center" border="0">
-        <img src="https://wakatime.com/share/@83147bf6-6ae4-4808-b561-7c7b7e168e77/78d42d5b-46db-4366-b10b-935008eb9f08.svg" width="400" alt="Coding Activity">
-      </td>
-      <td align="center" border="0">
-        <img src="https://wakatime.com/share/@83147bf6-6ae4-4808-b561-7c7b7e168e77/ea9a4f8d-098e-4de1-be5f-421ed8426a04.svg" width="400" alt="Languages">
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2" border="0">
-        <img src="https://wakatime.com/share/@83147bf6-6ae4-4808-b561-7c7b7e168e77/2199db30-89b4-4f4e-8775-95ef5fac81aa.svg" width="400" alt="IDE Stats">
-      </td>
-    </tr>
-  </table>
+## 🚀 About Our Work
 
-  <br/>
+- 🔭 **Currently building:** Robust web applications including the **Fresh Market** e-commerce platform and real-time data dashboards (like the **Smart Accounting** system).
+- 💡 **Design Philosophy:** Passionate about UX/UI design systems and prioritizing human empathy over purely AI-generated designs.
+- 🔐 **Focus Areas:** Expanding our backend logic, implementing secure token-based authentication (JWT/bcrypt), and streamlining environments.
 
-  <p>
-    <a href="https://wakatime.com">
-      <img src="https://wakatime.com/share/@83147bf6-6ae4-4808-b561-7c7b7e168e77/2034f225-350f-478b-9dfd-70547f0da65f.png" width="300" alt="Summary 1" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://wakatime.com">
-      <img src="https://wakatime.com/share/@83147bf6-6ae4-4808-b561-7c7b7e168e77/40a339b5-9577-412b-80e5-eeb431c5d9c3.png" width="300" alt="Summary 2" />
-    </a>
-  </p>
+---
+
+## 💻 Tech Stack & Proficiency Level
+
+### 🟢 Advanced (Daily Drivers & UI/UX)
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+### 🟡 Intermediate (Backend & Architecture)
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+### 🔵 Tools & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=61DAFB&text_color=ffffff&icon_color=61DAFB" alt="GitHub Stats" />
+</div>
 
   <br/>
 
