@@ -61,9 +61,9 @@
       </td>
     </tr>
     <tr>
-         <td>
+         <!-- <td>
          <img width="350" alt="image" src="https://github.com/user-attachments/assets/75b48ae5-93fd-4950-bb84-300b82cd508c" />
-      </td>
+      </td> -->
       <td>
         <a href="https://wakatime.com">
       <img src="https://wakatime.com/share/@83147bf6-6ae4-4808-b561-7c7b7e168e77/2034f225-350f-478b-9dfd-70547f0da65f.png" width="300" alt="Summary 1" />
