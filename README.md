@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
 
 ### 🟡 Intermediate (Backend & Architecture)
 <p align="left">
@@ -57,13 +56,14 @@
       <td align="center" border="0">
         <img src="https://wakatime.com/share/@83147bf6-6ae4-4808-b561-7c7b7e168e77/ea9a4f8d-098e-4de1-be5f-421ed8426a04.svg" width="400" alt="Languages">
       </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2" border="0">
+        <td align="center" colspan="2" border="0">
         <img src="https://wakatime.com/share/@83147bf6-6ae4-4808-b561-7c7b7e168e77/2199db30-89b4-4f4e-8775-95ef5fac81aa.svg" width="400" alt="IDE Stats">
       </td>
     </tr>
     <tr>
+         <td>
+         <img width="350" alt="image" src="https://github.com/user-attachments/assets/75b48ae5-93fd-4950-bb84-300b82cd508c" />
+      </td>
       <td>
         <a href="https://wakatime.com">
       <img src="https://wakatime.com/share/@83147bf6-6ae4-4808-b561-7c7b7e168e77/2034f225-350f-478b-9dfd-70547f0da65f.png" width="300" alt="Summary 1" />
@@ -76,8 +76,7 @@
     </a>
    </td>
     </tr>
-   
-    
+
   </table>
 
   
